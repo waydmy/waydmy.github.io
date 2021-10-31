@@ -1,0 +1,2 @@
+# waydmy.github.io
+blog
